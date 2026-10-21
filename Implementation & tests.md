@@ -40,7 +40,7 @@
 <br>
 <br>
 
-## 10. Conclusion
+## 4. Conclusion
 
 This project demonstrates basic cloud monitoring and alerting using Amazon EC2, Amazon CloudWatch, and Amazon SNS.
 It shows how cloud administrators can detect high CPU utilization and receive notifications without continuously checking the server manually.
