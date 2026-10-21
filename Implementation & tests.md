@@ -28,7 +28,7 @@
 
 ## 3. Testing and Results
 
-| Test | Description | Result |
+| Step | Description | Result |
 |------|-------------|--------|
 |  1 | Simulated high CPU load on the EC2 instance by running a stress process, deliberately pushing CPU utilization above the configured alarm threshold | [CPU-load](screenshots/CPU-load.png) |
 |  2 | Verified that the elevated CPU usage triggered the CloudWatch alarm, causing its state to change from OK to ALARM | [In-alarm](screenshots/In-alarm.png) |
